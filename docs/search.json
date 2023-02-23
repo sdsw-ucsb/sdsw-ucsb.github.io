@@ -2,13 +2,20 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SDSW",
+    "title": "UCSB SDSW",
     "section": "",
-    "text": "This website is under construction."
+    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "Pages/officers.html",
+    "href": "Pages/officers.html",
+    "title": "Meet the Officers",
+    "section": "",
+    "text": "Officer Title\n\n\n\n\n\n\n\n\n\n\n\n\n\nOfficer Name\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOfficer Title\n\n\n\n\n\n\n\n\n\n\n\n\n\nOfficer Name\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "Pages/about.html",
+    "href": "Pages/about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"

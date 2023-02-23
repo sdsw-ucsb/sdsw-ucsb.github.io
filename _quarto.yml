@@ -3,12 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "SDSW"
+  title: "UCSB SDSW"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Pages/about.qmd
+        text: About
+      - href: Pages/officers.qmd
+        text: Officers
+        
+  favicon: "Images/Logos_Icons/main_logo.png"
+  page-footer: "Site Originally Designed by Ethan Marzban using Quarto; ©2023"
 
 format:
   html:

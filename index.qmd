@@ -1,5 +1,20 @@
 ---
-title: "SDSW"
+title: ""
 ---
 
-This website is under construction.
+<table>
+  <tr>
+    <td style = "padding-right: 15pt"><img src = "Images/Logos_Icons/main_logo.png" width = 250></td>
+    <td>
+        <h1><b>Statistics and Data Science Workshop Series</b></h1>
+        <p style = "font-size:28px">University of California, Santa Barbara</p>
+    </td>
+  </tr>
+</table>
+
+Welcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!
+
+\
+<p style = "text-align: center">
+  <a href = "https://www.instagram.com/ucsbsdsw/" target = "_blank"><img src = "Images/Logos_Icons/instagram.png" width = 40></a> \ \ \ \ \ \ \ \ <a href = "https://discord.gg/98dKD8cK" target = "_blank"><img src = "Images/Logos_Icons/discord.png" width = 40></a>
+</p>
