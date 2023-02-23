@@ -1,0 +1,10 @@
+---
+title: "Resources"
+---
+
+## Data Visualization Workshop (2/24)
+
+- **Slides:** [.html] [.pdf] (`.html` format recommended)
+- **Additional Resources:**
+    - Link1
+    - Link2

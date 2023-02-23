@@ -19,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Pages/resources.html",
+    "href": "Pages/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides: [.html] [.pdf] (.html format recommended)\nAdditional Resources:\n\nLink1\nLink2"
   }
 ]

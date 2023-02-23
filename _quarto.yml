@@ -12,6 +12,10 @@ website:
         text: About
       - href: Pages/officers.qmd
         text: Officers
+      - href: Pages/resources.qmd
+        text: Resources
+      - href: Pages/calendar.qmd
+        text: Calendar
         
   favicon: "Images/Logos_Icons/main_logo.png"
   page-footer: "Site Originally Designed by Ethan Marzban using Quarto; ©2023"
