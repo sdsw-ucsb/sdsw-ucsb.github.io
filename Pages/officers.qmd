@@ -5,18 +5,16 @@ title: "Meet the Officers"
 <!--First Officer-->
 
 :::{.callout-note collapse="false"}
-## Officer Title
+## Founder
 <table>
   <tr>
     <td style = "padding-right: 10pt">
       <img src = "../Images/Profiles/placeholder.png" width = 200>
     </td>
     <td>
-      <p style = "font-size:24px"><b>Officer Name</b></p>
+      <p style = "font-size:24px"><b>Kris Hao</b></p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.      
+        Kris is a 3rd year SDS major.  
       </p>
     </td>
   </tr>
@@ -27,21 +25,75 @@ title: "Meet the Officers"
 <!--Second Officer-->
 
 :::{.callout-note collapse="false"}
-## Officer Title
+## Founder
 <table>
   <tr>
     <td style = "padding-right: 10pt">
-      <img src = "../Images/Profiles/placeholder.png" width = 200>
+      <img src = "../Images/Profiles/anya-photo.png" width = 200>
     </td>
     <td>
-      <p style = "font-size:24px"><b>Officer Name</b></p>
+      <p style = "font-size:24px"><b>Anya Macomber</b></p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.      
+        Anya is a 3rd year SDS major and student in UCSB's PaCE EMT program. After her graduation in Spring 2023, she plans to work as an EMT. In her free time Anya enjoys reading, making art, and spending time with her cat, Sheldon.      
       </p>
     </td>
   </tr>
 </table>
 :::
 
+<!--Third Officer-->
+
+:::{.callout-note collapse="false"}
+## Social Media Coordinator
+<table>
+  <tr>
+    <td style = "padding-right: 10pt">
+      <img src = "../Images/Profiles/placeholder.png" width = 200>
+    </td>
+    <td>
+      <p style = "font-size:24px"><b>Mollie</b></p>
+      <p>
+        Mollie. 
+      </p>
+    </td>
+  </tr>
+</table>
+:::
+
+<!--Fourth Officer-->
+
+:::{.callout-note collapse="false"}
+## Graduate Student Advisor
+<table>
+  <tr>
+    <td style = "padding-right: 10pt">
+      <img src = "../Images/Profiles/placeholder.png" width = 200>
+    </td>
+    <td>
+      <p style = "font-size:24px"><b>Ethan Marzban</b></p>
+      <p>
+        Ethan.
+      </p>
+    </td>
+  </tr>
+</table>
+:::
+
+<!--Fifth Officer-->
+
+:::{.callout-note collapse="false"}
+## Faculty Advisor
+<table>
+  <tr>
+    <td style = "padding-right: 10pt">
+      <img src = "../Images/Profiles/placeholder.png" width = 200>
+    </td>
+    <td>
+      <p style = "font-size:24px"><b>Dr. Uma Ravat</b></p>
+      <p>
+        Dr. Uma Ravat.
+      </p>
+    </td>
+  </tr>
+</table>
+:::
