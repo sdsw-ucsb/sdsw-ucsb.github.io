@@ -12,8 +12,8 @@ website:
         text: About
       - href: Pages/officers.qmd
         text: Officers
-      - href: Pages/resources.qmd
-        text: Resources
+      - href: Pages/meetings.qmd
+        text: Past Meetings
       - href: Pages/calendar.qmd
         text: Calendar
         
