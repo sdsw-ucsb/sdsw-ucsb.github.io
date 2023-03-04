@@ -67,12 +67,12 @@ title: "Meet the Officers"
 <table>
   <tr>
     <td style = "padding-right: 10pt">
-      <img src = "../Images/Profiles/placeholder.png" width = 200>
+      <img src = "../Images/Profiles/Ethan.png" width = 200>
     </td>
     <td>
       <p style = "font-size:24px"><b>Ethan Marzban</b></p>
       <p>
-        Ethan.
+        Ethan is currently in the 3rd year of his PhD program in the PSTAT Department, having joined the department in 2020 after earning his Bachelor's degree (also in Statistics). Outside of Statistics, he enjoys playing the piano, drinking boba, and talking about cats (and may or may not secretly be a cat himself).
       </p>
     </td>
   </tr>
