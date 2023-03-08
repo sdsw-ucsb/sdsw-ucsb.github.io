@@ -53,7 +53,7 @@ title: "Meet the Officers"
     <td>
       <p style = "font-size:24px"><b>Mollie</b></p>
       <p>
-        Mollie is a second year Stats and Data Science major. She is really excited to be a part of the workshop and meet more people while learning more about her major. She can usually be found with her head buried in a book or in yarn trying to crochet.  
+        Mollie (pronouns she/her) is a second year Stats and Data Science major. She is really excited to be a part of the workshop and meet more people while learning more about her major. She can usually be found with her head buried in a book or in yarn trying to crochet.  
       </p>
     </td>
   </tr>
