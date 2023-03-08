@@ -9,12 +9,12 @@ title: "Meet the Officers"
 <table>
   <tr>
     <td style = "padding-right: 10pt">
-      <img src = "../Images/Profiles/placeholder.png" width = 200>
+      <img src = "../Images/Profiles/kris-photo.png" width = 200>
     </td>
     <td>
       <p style = "font-size:24px"><b>Kris Hao</b></p>
       <p>
-        Kris is a 3rd year SDS major.  
+        Kris is a Junior (pronouns she/hers) pursuing a Bachelors of Science in Data Science. She has coding experience in Python, RStudio, SQL, SAS Studio, and Git. Her main goal through co-founding the Statistics and Data Science Workshop Series is to bring together a group of talented and data-passionate students, no matter their technical-level, knowledge, or data-exposure, to work together and maximize their technical potential by learning and applying fundamental project concepts taught through the series.  
       </p>
     </td>
   </tr>
@@ -34,7 +34,7 @@ title: "Meet the Officers"
     <td>
       <p style = "font-size:24px"><b>Anya Macomber</b></p>
       <p>
-        Anya is a 3rd year SDS major and student in UCSB's PaCE EMT program. After her graduation in Spring 2023, she plans to work as an EMT. In her free time Anya enjoys reading, making art, and spending time with her cat, Sheldon.      
+        Anya (pronouns she/her) is a 3rd year SDS major and student in UCSB's PaCE EMT program. After her graduation in Spring 2023, she plans to work as an EMT. In her free time Anya enjoys reading, making art, and spending time with her cat, Sheldon.      
       </p>
     </td>
   </tr>
@@ -48,12 +48,12 @@ title: "Meet the Officers"
 <table>
   <tr>
     <td style = "padding-right: 10pt">
-      <img src = "../Images/Profiles/placeholder.png" width = 200>
+      <img src = "../Images/Profiles/mollie-photo.png" width = 200>
     </td>
     <td>
       <p style = "font-size:24px"><b>Mollie</b></p>
       <p>
-        Mollie. 
+        Mollie is a second year Stats and Data Science major. She is really excited to be a part of the workshop and meet more people while learning more about her major. She can usually be found with her head buried in a book or in yarn trying to crochet.  
       </p>
     </td>
   </tr>
