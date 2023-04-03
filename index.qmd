@@ -16,5 +16,5 @@ Welcome to the official website of the Statistics and Data Science Workshop, hos
 
 \
 <p style = "text-align: center">
-  <a href = "https://www.instagram.com/ucsbsdsw/" target = "_blank"><img src = "Images/Logos_Icons/instagram.png" width = 40></a> \ \ \ \ \ \ \ \ <a href = "https://discord.gg/BKWweNuJ" target = "_blank"><img src = "Images/Logos_Icons/discord.png" width = 40></a>
+  <a href = "https://www.instagram.com/ucsbsdsw/" target = "_blank"><img src = "Images/Logos_Icons/instagram.png" width = 40></a> \ \ \ \ \ \ \ \ <a href = "https://discord.gg/TSSNBa6yJ2" target = "_blank"><img src = "Images/Logos_Icons/discord.png" width = 40></a>
 </p>
