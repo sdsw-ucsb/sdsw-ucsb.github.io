@@ -1,0 +1,60 @@
+\documentclass{beamer}
+\usetheme{Madrid}
+
+\usepackage{amsmath, amsfonts, amssymb, amsthm}
+\usepackage{dsfont, float}
+
+\title{My Beamer Presentation}
+\author{Ethan M}
+\institute{University of California, Santa Barbara}
+\date{\today}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\maketitle
+
+\begin{frame}{Basic Frame}
+
+\begin{itemize}
+
+  \item <1-> Here is my first bullet point 
+  \item <2-> Here is my second.
+  \item <3-> This point contains some math: $\mathds{P}(X \leq x) = \int_{-\infty}^{x} f_X(t) \ \mathrm{d}t$
+
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]{Coding Frames}
+
+<<>>=
+2 + 2
+@
+
+\end{frame}
+
+
+\begin{frame}[fragile]{Generating Plots}
+
+\begin{figure}[H]
+\centering
+<<echo = F, fig = T, width = 10>>=
+library(tidyverse)
+library(palmerpenguins)
+
+penguins %>% 
+  ggplot(aes(x = bill_length_mm)) +
+  geom_histogram(col = "white", bins = 13) +
+  ggtitle("Histogram of Bill Lengths") +
+  theme_bw(base_size = 16)
+@
+\caption{A Nice-Looking Plot}
+\end{figure}
+
+\end{frame}
+
+
+
+
+\end{document}

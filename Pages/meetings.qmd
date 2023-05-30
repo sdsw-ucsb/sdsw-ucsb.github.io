@@ -2,6 +2,15 @@
 title: "Resources from Past Meetings"
 ---
 
+## Shiny Apps, and Slides (4/28)
+
+- **Shiny Apps:**
+    - `palmerpenguins` scatterplot, with option to color by species: [<a href="../Files/Shiny_and_Slides/p_penguins.R" download="p_penguins.R">.R</a>] (triggers a download)
+    
+- **Slides:**
+    - Basic `RSweave` (`.Rnw`) file: [<a href="../Files/Shiny_and_Slides/slides.Rnw" download="slides.Rnw">.Rnw</a>] (triggers a download)
+    
+    
 ## Markdown, GitHub, and LaTeX Workshop (3/3)
 
 - **Slides:** [.pdf]
