@@ -1,5 +1,6 @@
 ---
 title: "Meet the Officers"
+sidebar: false
 ---
 
 <!--First Officer-->

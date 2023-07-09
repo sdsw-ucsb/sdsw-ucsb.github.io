@@ -6,16 +6,25 @@ website:
   title: "UCSB SDSW"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: Pages/about.qmd
-        text: About
-      - href: Pages/officers.qmd
-        text: Officers
-      - href: Pages/meetings.qmd
-        text: Past Meetings
+      - sidebar:about
       - href: Pages/calendar.qmd
         text: Calendar
+      - href: Pages/meetings.qmd
+        text: Past Meetings
+      - href: Pages/projects.qmd
+        text: Projects
+  sidebar:
+    - title: "Projects"
+      style: "docked"
+      collapse-level: 2
+      contents:
+        - Pages/projects.qmd
+        - Pages/projects2223.qmd
+    - id: about
+      title: "About"
+      contents:
+        - Pages/about.qmd
+        - Pages/officers.qmd
         
   favicon: "Images/Logos_Icons/main_logo.png"
   page-footer: "Site Originally Designed by Ethan Marzban using Quarto; ©2023"

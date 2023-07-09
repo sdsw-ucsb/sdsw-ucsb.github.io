@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "\nStatistics and Data Science Workshop Series\n",
     "section": "",
-    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!\n\n\n\n         \n\ntest"
+    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!\n\n\n\n         \n\n\nUpcoming Events"
   },
   {
     "objectID": "Pages/officers.html",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "Founded in 2023 by Kris Hao and Anya Macomber, the workshop series aims to provide an inclusive and collegial atmosphere where motivated students can engage more fully with real-world datasets and projects. Our goals as an organization are:\n\nTo first create some more concrete goals!!"
+  },
+  {
+    "objectID": "Pages/projects.html",
+    "href": "Pages/projects.html",
+    "title": "Past Projects",
+    "section": "",
+    "text": "Past projects from our club members!"
   }
 ]
