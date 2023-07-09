@@ -4,4 +4,6 @@ title: "About"
 
 Founded in 2023 by Kris Hao and Anya Macomber, the workshop series aims to provide an inclusive and collegial atmosphere where motivated students can engage more fully with real-world datasets and projects. Our goals as an organization are:
 
-- To first create some more concrete goals!!
+-   To first create some more concrete goals!!
+
+test test

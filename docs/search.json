@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "UCSB SDSW",
+    "title": "\nStatistics and Data Science Workshop Series\n",
     "section": "",
-    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!"
+    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!\n\n\n\n         \n\ntest"
   },
   {
     "objectID": "Pages/officers.html",
@@ -16,6 +16,13 @@
   {
     "objectID": "Pages/meetings.html",
     "href": "Pages/meetings.html",
+    "title": "Resources from Past Meetings",
+    "section": "",
+    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (triggers a download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (triggers a download)"
+  },
+  {
+    "objectID": "Pages/meetings.html#shiny-apps-and-slides-428",
+    "href": "Pages/meetings.html#shiny-apps-and-slides-428",
     "title": "Resources from Past Meetings",
     "section": "",
     "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (triggers a download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (triggers a download)"
