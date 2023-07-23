@@ -6,13 +6,13 @@ website:
   title: "UCSB SDSW"
   navbar:
     left:
-      - sidebar:about
       - href: Pages/calendar.qmd
         text: Calendar
       - href: Pages/meetings.qmd
         text: Past Meetings
       - href: Pages/projects.qmd
         text: Projects
+      - sidebar:about
   sidebar:
     - title: "Projects"
       style: "docked"
