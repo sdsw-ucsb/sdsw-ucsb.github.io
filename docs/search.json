@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "\nStatistics and Data Science Workshop Series\n",
     "section": "",
-    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!\n\n\n\n         \n\n\nUpcoming Events"
+    "text": "Statistics and Data Science Workshop Series\n\n\nUniversity of California, Santa Barbara\n\n\n\n\n\nWelcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!\nAt Data Science Collaborative (DS Collab for short), our goal is to make data science accessible for everyone. We are dedicated to providing accessible resources and services through one-on-one mentorships, career check-ins, study halls, foundational project workshops, and most importantly, a community full of like-minded people. We promise a deliverable that will be presented at our year-end showcase featuring guest lecturers and industry employers (to be announced). Join us today to develop your passion in the world of statistics!\n\n\n\n         \n\n\nUpcoming Events\n\n\n\n\n\nDate\n\n\nEvent"
   },
   {
     "objectID": "Pages/officers.html",
@@ -54,5 +54,12 @@
     "title": "About",
     "section": "",
     "text": "Founded in 2023 by Kris Hao and Anya Macomber, the workshop series aims to provide an inclusive and collegial atmosphere where motivated students can engage more fully with real-world datasets and projects. Our goals as an organization are:\n\nTo first create some more concrete goals!!"
+  },
+  {
+    "objectID": "testindex.html",
+    "href": "testindex.html",
+    "title": "testindex",
+    "section": "",
+    "text": "img{ max-width: auto; max-height: 100%; padding-left: 0; padding-right: 0 }"
   }
 ]
