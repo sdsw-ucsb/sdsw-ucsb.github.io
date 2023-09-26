@@ -1,3 +1,16 @@
 ---
 title: "2022-2023"
+format:
+  html:
+    embed-resources: true
 ---
+<html>
+<body>
+  <div class="img-gallery">
+    <img src="../Images/Project_Showcase/2023/FaceRecognition.jpg" width=200>
+    <img src="../Images/Project_Showcase/2023/FastFood.jpg">
+    <img src="../Images/Project_Showcase/2023/MovieThemes.jpg">
+    <img src="../Images/Project_Showcase/2023/PopularityAnalysis.jpg">
+  </div>
+</body>
+</html>

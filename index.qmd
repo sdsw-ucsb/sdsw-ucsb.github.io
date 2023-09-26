@@ -6,8 +6,8 @@ title: ""
   <tr>
     <td style = "padding-right: 15pt"><img src = "Images/Logos_Icons/main_logo.png" width = 250></td>
     <td>
-        <h1><b>Statistics and Data Science Workshop Series</b></h1>
-        <p style = "font-size:28px">University of California, Santa Barbara</p>
+        <h1><b>Data Science Collaborative</b></h1>
+        <p style = "font-size:20px">University of California, Santa Barbara</p>
     </td>
   </tr>
 </table>
