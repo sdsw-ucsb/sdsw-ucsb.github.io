@@ -6,6 +6,8 @@ editor:
 
 # sdsw-ucsb.github.io
 
+https://sdsw-ucsb.github.io/
+
 ##Github Worksheet
 
 # Home
