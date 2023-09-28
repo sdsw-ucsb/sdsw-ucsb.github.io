@@ -4,7 +4,7 @@ title: ""
 
 <table>
   <tr>
-    <td style = "padding-right: 15pt"><img src = "Images/Logos_Icons/main_logo.png" width = 250></td>
+    <td style = "padding-right: 15pt"><img src = "Images/Logos_Icons/main_logo2.png" width = 250></td>
     <td>
         <h1><b>Data Science Collaborative</b></h1>
         <p style = "font-size:20px">University of California, Santa Barbara</p>

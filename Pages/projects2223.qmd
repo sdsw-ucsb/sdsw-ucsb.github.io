@@ -6,17 +6,17 @@ title: "2022-2023"
 
   <div class="full-img" id="fullImgBox">
   <html>
-    <img src="../Images/Project_Showcase/2023/FaceRecognition.jpg" id="fullImg">
+    <img src="../Images/Project_Showcase/2023/!KrisAnnaMollieNixon.jpg" id="fullImg">
     <span onclick="closeFullImg()">X</span>
   </html>
   </div>
   
   <div class="img-gallery">
   <html>
-    <img src="../Images/Project_Showcase/2023/FaceRecognition.jpg" onclick="openFullImg(this.src)">
-    <img src="../Images/Project_Showcase/2023/FastFood.jpg" onclick="openFullImg(this.src)">
-    <img src="../Images/Project_Showcase/2023/MovieThemes.jpg" onclick="openFullImg(this.src)">
-    <img src="../Images/Project_Showcase/2023/PopularityAnalysis.jpg" onclick="openFullImg(this.src)">
+    <img src="../Images/Project_Showcase/2023/!KrisAnnaMollieNixon.jpg" onclick="openFullImg(this.src)">
+    <img src="../Images/Project_Showcase/2023/!BrendanAlaina.jpeg" onclick="openFullImg(this.src)">
+    <img src="../Images/Project_Showcase/2023/!YishanAliceJohanna.jpg" onclick="openFullImg(this.src)">
+    <img src="../Images/Project_Showcase/2023/!ChristianRoshanColton.jpg" onclick="openFullImg(this.src)">
   </html>
   </div>
   
