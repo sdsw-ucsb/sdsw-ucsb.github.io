@@ -35,14 +35,14 @@ At Data Science Collaborative (DS Collab for short), our goal is to make data sc
 </p>
 
 
-<h2><font size="6" face="Helvetica"><b>Upcoming Events</b></font></h2>
+<h2><font face="Helvetica"><b>Upcoming Events</b></font></h2>
 <table>
   <tr>
-    <td width=20%><font size="4" face="Helvetica"><b>Date</b></font></td>
-    <td><font size="4" face="Helvetica"><b>Event</b></font></td>
+    <td width=20%><font face="Helvetica"><h4><b>Date</b></h4></font></td>
+    <td><font face="Helvetica"><h4><b>Event</b></h4></font></td>
   </tr>
   <tr>
-    <td width=20%><font size="3" face="Helvetica">10/05/2023</td>
-    <td><font size="3" face="Helvetica">GM #1 @ Broida 1610</td>
+    <td width=20%><font face="Helvetica">10/05/2023</td>
+    <td><font face="Helvetica">GM #1 @ Broida 1610</td>
   </tr>
 </table>
