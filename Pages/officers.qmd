@@ -1,8 +1,8 @@
 ---
 title: "Meet the Officers"
+format: html
 sidebar: false
 ---
 
-<div class="officers">
-  <img src="../Images/Profiles/Kris2023.png" style="width:100%">
-</div>
+
+<img src="../Images/Profiles/Kris2023.png" style="width:100%">
