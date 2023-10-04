@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
     "title": "UCSB DSCOL",
-    "section": "",
-    "text": "At the Data Science Collaborative (DS Collab for short), our goal is to make data science accessible for everyone. We are dedicated to providing accessible resources and services through one-on-one mentorships, career check-ins, study halls, foundational project workshops, and most importantly, a community full of like-minded people. We promise a deliverable that will be presented at our year-end showcase featuring guest lecturers and industry employers. Join us today to develop your passion in the world of statistics!\n\n\n\n\n\nPictured above: A photo of our 2022-2023 Final Project Showcase\n\n\n\n\n\n         \n\n\nUpcoming Events\n\n\n\n\n\n\n\nDate\n\n\n\n\n\n\nEvent\n\n\n\n\n\n\n10/05/2023\n\n\nGM #1 @ Broida 1610"
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\n\nEvent\nDate/Time\nLocation\n\n\n\n\nGeneral Meeting #1\nThurs, Oct. 5, 2023; 7-9pm\nBroida 1610\n\n\nGeneral Meeting #2\nTBD\nTBD"
   },
   {
     "objectID": "Pages/projects2223.html",
@@ -12,13 +12,6 @@
     "title": "2022-2023",
     "section": "",
     "text": "Analyzing the Relationship Between Family Themes and Movie Ratings\n\n\n\n\n\n\nAnalyzing the Relationship Between Family Themes and Movie Ratings\n\nDo Daddy Issues Sell? This project sought to explore the relationship between movie ratings in genres pertaining to family themes and those not pertaining to family themes.\nGroup Members: Anna Xue, Kris Hao, Mollie Jiang, and Nixon Carino\n\n \n\n\n\n\n\n\n\n\n\n\n\nBest Bang for your Buck\n\n\n\n\n\n\nBest Bang for your Buck\n\nThis project sought to determine which fast food chains provide the “best bang for your buck”. More concretely, the nutritional content of meals from various fast food chains was analyzed, and restaurants were awarded one of “best health”, “best deals” and “best overall”.\nGroup Members: Brendan McGuinness, Alaina Liu\n\n \n\n\n\n\n\n\n\n\n\n\n\nReal or Fake Faces\n\n\n\n\n\n\nReal or Fake Faces\n\nWith the rise of AI-generated media, the ability to recognize real from fake is imperative. The goal of this project was to train a series of simple models to recognize photos of real faces from photos of artificially-generated faces.\nGroup Members: Yishan, Alice, Johanna P.\n\n \n\n\n\n\n\n\n\n\n\n\n\nTV Show and Movie Popularity Analysis\n\n\n\n\n\n\nTV Show and Movie Popularity Analysis\n\nDescription goes here.\nGroup Members: Christian Garduno, Roshan Mehta, Colton Rowe\n\n \n\n\n\n\n\n\n\n X"
-  },
-  {
-    "objectID": "Pages/officers.html",
-    "href": "Pages/officers.html",
-    "title": "Meet the Officers",
-    "section": "",
-    "text": "Officer 1\n\n\nOfficer 2"
   },
   {
     "objectID": "Pages/projects.html",
@@ -61,12 +54,5 @@
     "title": "About",
     "section": "",
     "text": "Founded in 2023 by Kris Hao and Anya Macomber, the workshop series aims to provide an inclusive and collegial atmosphere where motivated students can engage more fully with real-world datasets and projects. Our goals as an organization are:\n\nTo make statistics accessible to all skill levels\nTo build a community around data science at UCSB\nEnsure the success of our members by guiding them through their own resume-building data science projects"
-  },
-  {
-    "objectID": "index.html#upcoming-events",
-    "href": "index.html#upcoming-events",
-    "title": "UCSB DSCOL",
-    "section": "Upcoming Events",
-    "text": "Upcoming Events\n\n\n\n\nEvent\nDate/Time\nLocation\n\n\n\n\nGeneral Meeting #1\nThurs, Oct. 5, 2023; 7-9pm\nBroida 1610\n\n\nGeneral Meeting #2\nTBD\nTBD"
   }
 ]
