@@ -2,6 +2,80 @@
 title: "2022-2023"
 ---
 
+<!-- PROJECT 1 -->
+:::{.callout-note collapse="false"}
+## Analyzing the Relationship Between Family Themes and Movie Ratings
+
+<h3>Analyzing the Relationship Between Family Themes and Movie Ratings</h3>
+
+Do Daddy Issues Sell? This project sought to explore the relationship between movie ratings in genres pertaining to family themes and those not pertaining to family themes.
+
+**Group Members:** Anna Xue, Kris Hao, Mollie Jiang, and Nixon Carino
+
+:::{.img-gallery}
+<img src="../Images/Project_Showcase/2023/!KrisAnnaMollieNixon.jpg" onclick="openFullImg(this.src)" style="width:30%"> 
+<img src="../Images/Project_Showcase/2023/MovieThemes.jpg" onclick="openFullImg(this.src)" style="width:30%">
+:::
+  
+:::
+
+
+
+<!-- PROJECT 2 -->
+:::{.callout-note collapse="false"}
+## Best Bang for your Buck
+
+<h3>Best Bang for your Buck</h3>
+
+This project sought to determine which fast food chains provide the "best bang for your buck". More concretely, the nutritional content of meals from various fast food chains was analyzed, and restaurants were awarded one of "best health", "best deals" and "best overall".
+
+**Group Members:** Brendan McGuinness, Alaina Liu
+
+:::{.img-gallery}
+<img src="../Images/Project_Showcase/2023/!BrendanAlaina.jpeg" onclick="openFullImg(this.src)" style="width:30%">
+<img src="../Images/Project_Showcase/2023/FastFood.jpg" onclick="openFullImg(this.src)" style="width:30%">
+:::
+  
+:::
+
+
+
+<!-- PROJECT 3 -->
+:::{.callout-note collapse="false"}
+## Real or Fake Faces
+
+<h3>Real or Fake Faces</h3>
+
+With the rise of AI-generated media, the ability to recognize real from fake is imperative. The goal of this project was to train a series of simple models to recognize photos of real faces from photos of artificially-generated faces. 
+
+**Group Members:** Yishan, Alice, Johanna P.
+
+:::{.img-gallery}
+<img src="../Images/Project_Showcase/2023/!YishanAliceJohanna.jpg" onclick="openFullImg(this.src)" style="width:30%">
+<img src="../Images/Project_Showcase/2023/!faces_group.jpg" onclick="openFullImg(this.src)" style="width:30%">
+:::
+  
+:::
+
+
+
+<!-- PROJECT 4 -->
+:::{.callout-note collapse="false"}
+## TV Show and Movie Popularity Analysis
+
+<h3>TV Show and Movie Popularity Analysis</h3>
+
+Description goes here.
+
+**Group Members:** Christian Garduno, Roshan Mehta, Colton Rowe
+
+:::{.img-gallery}
+<img src="../Images/Project_Showcase/2023/!ChristianRoshanColton.jpg" onclick="openFullImg(this.src)" style="width:30%">
+<img src="../Images/Project_Showcase/2023/!group1.jpg" onclick="openFullImg(this.src)" style="width:30%">
+:::
+  
+:::
+
 <body>
 
   <div class="full-img" id="fullImgBox">
@@ -13,6 +87,8 @@ title: "2022-2023"
   
   <div class="img-gallery">
   <html>
+    <img src="../Images/Project_Showcase/2023/!candid1.jpg" onclick="openFullImg(this.src)">
+    <img src="../Images/Project_Showcase/2023/!candid2.jpg" onclick="openFullImg(this.src)">
     <img src="../Images/Project_Showcase/2023/!KrisAnnaMollieNixon.jpg" onclick="openFullImg(this.src)">
     <img src="../Images/Project_Showcase/2023/!BrendanAlaina.jpeg" onclick="openFullImg(this.src)">
     <img src="../Images/Project_Showcase/2023/!YishanAliceJohanna.jpg" onclick="openFullImg(this.src)">

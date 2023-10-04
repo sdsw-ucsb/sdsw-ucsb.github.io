@@ -1,32 +1,30 @@
 ---
 title: ""
 ---
-<!--- 
-<table>
-  <tr>
-    <td style = "padding-right: 15pt"><img src = "Images/Logos_Icons/main_logo2.png" width = 250></td>
-    <td>
-        <h1><b>Data Science Collaborative</b></h1>
-        <p style = "font-size:20px">University of California, Santa Barbara</p>
-    </td>
-  </tr>
-</table>
---->
+
+:::{.column-page}
+![](Images/Logos_Icons/banner.png)
+:::
+
 
 <!--- old description
 Welcome to the official website of the Statistics and Data Science Workshop, hosted at the University of California, Santa Barbara! Here, you can find out more about the series, as well as view the final projects of our current groups. Please note that this is a living website- check back frequently for updates!
 --->
-<img src = "Images/Logos_Icons/banner.png" style="width:100%">
+
+
+<!-- ![](Images/Logos_Icons/banner.png){width="100%"} -->
+
+\
+
+:::{.fragment}
+At the Data Science Collaborative (DS Collab for short), our goal is to make data science accessible for everyone. We are dedicated to providing accessible resources and services through one-on-one mentorships, career check-ins, study halls, foundational project workshops, and most importantly, a community full of like-minded people. We promise a deliverable that will be presented at our year-end showcase featuring guest lecturers and industry employers. Join us today to develop your passion in the world of statistics!
+:::
 
 <br>
 
-<p>
-At Data Science Collaborative (DS Collab for short), our goal is to make data science accessible for everyone. We are dedicated to providing accessible resources and services through one-on-one mentorships, career check-ins, study halls, foundational project workshops, and most importantly, a community full of like-minded people. We promise a deliverable that will be presented at our year-end showcase featuring guest lecturers and industry employers. Join us today to develop your passion in the world of statistics!
-</p>
+![Pictured above: A photo of our 2022-2023 Final Project Showcase](Images/Project_Showcase/2023/GroupPhoto.png)
 
-<br>
-
-<img src="Images/Project_Showcase/2023/GroupPhoto.png" style="width:100%">
+<!-- <img src="Images/Project_Showcase/2023/GroupPhoto.png" style="width:100%"> -->
 
 <br>
 
@@ -34,15 +32,25 @@ At Data Science Collaborative (DS Collab for short), our goal is to make data sc
   <a href = "https://www.instagram.com/ucsbsdsw/" target = "_blank"><img src = "Images/Logos_Icons/instagram.png" width = 40></a> \ \ \ \ \ \ \ \ <a href = "https://discord.gg/aVqwwrXfdn" target = "_blank"><img src = "Images/Logos_Icons/discord.png" width = 40></a>
 </p>
 
+## Upcoming Events
 
-<h2><font face="Helvetica"><b>Upcoming Events</b></font></h2>
-<table>
-  <tr>
-    <td width=40%><font face="Helvetica"><h4><b>Date</b></h4></font></td>
-    <td><font face="Helvetica"><h4><b>Event</b></h4></font></td>
-  </tr>
-  <tr>
-    <td width=40%><font face="Helvetica">10/05/2023</td>
-    <td><font face="Helvetica">GM #1 @ Broida 1610</td>
-  </tr>
-</table>
+| Event  | Date/Time  | Location |
+|--------|------------|----------|
+| General Meeting \#1 | Thurs, Oct. 5, 2023; 7-9pm | Broida 1610 |
+| General Meeting \#2 | TBD | TBD |
+
+
+: {.striped .hover}
+
+
+<!-- <h2><font face="Helvetica"><b>Upcoming Events</b></font></h2> -->
+<!-- <table> -->
+<!--   <tr> -->
+<!--     <td width=40%><font face="Helvetica"><h4><b>Date</b></h4></font></td> -->
+<!--     <td><font face="Helvetica"><h4><b>Event</b></h4></font></td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td width=40%><font face="Helvetica">10/05/2023</td> -->
+<!--     <td><font face="Helvetica">GM #1 @ Broida 1610</td> -->
+<!--   </tr> -->
+<!-- </table> -->

@@ -7,20 +7,20 @@ css: "../styles.css"
 
 <br>
 
-::::{columns}
+![](../Images/Profiles/Kris2023.png)
+![](../Images/Profiles/Colton2023.png)
 
-:::{.column width="33%"}
-![](../Images/Logos_Icons/discord.png)
-:::
+<!-- ::::{columns} -->
 
-:::{.column width="33%"}
-![](../Images/Logos_Icons/discord.png)
-:::
+<!-- :::{.column width="50%"} -->
+<!-- ![](../Images/Profiles/Kris2023.png) -->
+<!-- ::: -->
 
-:::{.column width="33%"}
-![](../Images/Logos_Icons/discord.png)
-:::
-::::
+<!-- :::{.column width="50%"} -->
+<!-- ![](../Images/Profiles/Colton2023.png) -->
+<!-- ::: -->
+
+<!-- :::: -->
 
 <!-- <div class="row"> -->
 <!--   <div class="column"> -->
