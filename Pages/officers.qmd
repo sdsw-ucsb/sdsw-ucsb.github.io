@@ -2,7 +2,14 @@
 title: "Meet the Officers"
 format: html
 sidebar: false
+css: ../styles.css
 ---
 
+<br>
 
-<img src="../Images/Profiles/Kris2023.png" style="width:100%">
+<div class="row">
+  <img src="../Images/Profiles/Kris2023.png" style="width:100%">
+</div>
+
+
+
