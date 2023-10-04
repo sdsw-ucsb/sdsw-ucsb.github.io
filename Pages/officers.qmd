@@ -7,8 +7,21 @@ css: "../styles.css"
 
 <br>
 
-![](../Images/Profiles/Kris2023.png)
-![](../Images/Profiles/Colton2023.png)
+## President and Vice President 
+
+:::
+![](../Images/Profiles/Kris2023.png){width=80%}
+
+![](../Images/Profiles/Colton2023.png){width=80%}
+:::
+
+## Treasurer
+
+## Website Committee
+
+## Outreach Team
+
+
 
 <!-- ::::{columns} -->
 

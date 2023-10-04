@@ -25,28 +25,28 @@
     "href": "Pages/meetings.html",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (triggers a download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (triggers a download)"
+    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
   },
   {
     "objectID": "Pages/meetings.html#shiny-apps-and-slides-428",
     "href": "Pages/meetings.html#shiny-apps-and-slides-428",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (triggers a download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (triggers a download)"
+    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
   },
   {
     "objectID": "Pages/meetings.html#markdown-github-and-latex-workshop-33",
     "href": "Pages/meetings.html#markdown-github-and-latex-workshop-33",
     "title": "Resources from Past Meetings",
     "section": "Markdown, GitHub, and LaTeX Workshop (3/3)",
-    "text": "Markdown, GitHub, and LaTeX Workshop (3/3)\n\nSlides: [.pdf]\nAdditional Resources:\n\nLink1\nLink2"
+    "text": "Markdown, GitHub, and LaTeX Workshop (3/3)\n\nSlides: [.pdf]"
   },
   {
     "objectID": "Pages/meetings.html#data-visualization-workshop-224",
     "href": "Pages/meetings.html#data-visualization-workshop-224",
     "title": "Resources from Past Meetings",
     "section": "Data Visualization Workshop (2/24)",
-    "text": "Data Visualization Workshop (2/24)\n\nSlides: [.html] [.pdf] (.html format recommended)\nAdditional Resources:\n\nLink1\nLink2"
+    "text": "Data Visualization Workshop (2/24)\n\nSlides: [.html] [.pdf] (.html format recommended)"
   },
   {
     "objectID": "Pages/about.html",
@@ -54,5 +54,12 @@
     "title": "About",
     "section": "",
     "text": "Founded in 2023 by Kris Hao and Anya Macomber, the workshop series aims to provide an inclusive and collegial atmosphere where motivated students can engage more fully with real-world datasets and projects. Our goals as an organization are:\n\nTo make statistics accessible to all skill levels\nTo build a community around data science at UCSB\nEnsure the success of our members by guiding them through their own resume-building data science projects"
+  },
+  {
+    "objectID": "Pages/officers.html#president-and-vice-president",
+    "href": "Pages/officers.html#president-and-vice-president",
+    "title": "Meet the Officers",
+    "section": "President and Vice President",
+    "text": "President and Vice President\n::: \n :::"
   }
 ]
