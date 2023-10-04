@@ -9,11 +9,12 @@ css: "../styles.css"
 
 ## President and Vice President 
 
-:::
 ![](../Images/Profiles/Kris2023.png){width=80%}
 
+<br>
+
 ![](../Images/Profiles/Colton2023.png){width=80%}
-:::
+
 
 ## Treasurer
 
