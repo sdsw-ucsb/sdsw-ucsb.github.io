@@ -25,7 +25,7 @@ website:
       contents:
         - Pages/about.qmd
         - Pages/officers.qmd
-        
+
   favicon: "Images/Logos_Icons/main_logo.png"
   page-footer: "Site Originally Designed by Ethan Marzban using Quarto; ©2023"
 
@@ -33,7 +33,4 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
