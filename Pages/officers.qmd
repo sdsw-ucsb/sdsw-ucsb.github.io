@@ -2,14 +2,33 @@
 title: "Meet the Officers"
 format: html
 sidebar: false
-css: ../styles.css
+css: "../styles.css"
 ---
 
 <br>
 
-<div class="row">
-  <img src="../Images/Profiles/Kris2023.png" style="width:100%">
-</div>
+::::{columns}
+
+:::{.column width="33%"}
+![](../Images/Logos_Icons/discord.png)
+:::
+
+:::{.column width="33%"}
+![](../Images/Logos_Icons/discord.png)
+:::
+
+:::{.column width="33%"}
+![](../Images/Logos_Icons/discord.png)
+:::
+::::
+
+<!-- <div class="row"> -->
+<!--   <div class="column"> -->
+<!--     <img src="../Images/Profiles/Kris2023.png" style="width:100%"> -->
+<!--   </div> -->
+<!-- </div> -->
+
+
 
 
 
