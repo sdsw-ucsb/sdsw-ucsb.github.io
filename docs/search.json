@@ -67,14 +67,21 @@
     "href": "Pages/meetings.html",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
+    "text": "Check back soon for material!"
+  },
+  {
+    "objectID": "Pages/meetings.html#general-meeting-1-105",
+    "href": "Pages/meetings.html#general-meeting-1-105",
+    "title": "Resources from Past Meetings",
+    "section": "",
+    "text": "Check back soon for material!"
   },
   {
     "objectID": "Pages/meetings.html#shiny-apps-and-slides-428",
     "href": "Pages/meetings.html#shiny-apps-and-slides-428",
     "title": "Resources from Past Meetings",
-    "section": "",
-    "text": "Shiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
+    "section": "Shiny Apps, and Slides (4/28)",
+    "text": "Shiny Apps, and Slides (4/28)\n\nShiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
   },
   {
     "objectID": "Pages/meetings.html#markdown-github-and-latex-workshop-33",

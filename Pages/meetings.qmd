@@ -2,6 +2,17 @@
 title: "Resources from Past Meetings"
 ---
 
+# 2023-2024
+
+## General Meeting 1 (10/5)
+
+- _Check back soon for material!_
+
+
+\
+
+# 2022-2023
+
 ## Shiny Apps, and Slides (4/28)
 
 - **Shiny Apps:**
