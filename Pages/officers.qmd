@@ -16,11 +16,48 @@ css: "../styles.css"
 ![](../Images/Profiles/Colton2023.png){width=80%}
 
 
-## Treasurer
+## Secretary and Treasurer
+
+![](../Images/Profiles/Mollie2023.png){width=80%}
+
+![](../Images/Profiles/Miranda2023.png){width=80%}
 
 ## Website Committee
 
+- Alaina Liu (Chair)
+
+- Sunny Zhong
+
+- Bowie Chung
+
+
 ## Outreach Team
+
+- Pramukh Shankar (chair)
+
+- Owen Feng
+
+- Krystal Wu
+
+- Cyrus Navasca
+
+- Momo Chiang
+
+- Alice Xu
+
+
+## Publicity Committee
+
+- Jennifer Rink
+
+- Caroline Chen
+
+
+## Faculty and Graduate Advisors
+
+- Dr. Uma Ravat (Faculty Advisor)
+
+- Ethan Marzban (Graduate Student Advisor)
 
 
 
