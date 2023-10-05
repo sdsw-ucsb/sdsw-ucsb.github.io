@@ -28,12 +28,12 @@ css: "../styles.css"
 
 - Sunny Zhong
 
-- Bowie Chung
+- Bowie Chuang
 
 
 ## Outreach Team
 
-- Pramukh Shankar (chair)
+- Pramukh Shankar (Chair)
 
 - Owen Feng
 
