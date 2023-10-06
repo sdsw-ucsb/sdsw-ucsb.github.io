@@ -4,16 +4,27 @@ title: "Resources from Past Meetings"
 
 # 2023-2024
 
-## General Meeting 1 (10/5)
+## General Meeting 1 (10/5/23)
 
-- _Check back soon for material!_
+- **Slides:** <a href="../Files/GM_23_24/GM1.pdf" target="_blank">[.pdf]</a> (Click to download)
 
 
 \
 
 # 2022-2023
 
-## Shiny Apps, and Slides (4/28)
+## General Meetings
+
+- **GM 1 (1/27/23) Slides:** <a href="../Files/GM_22_23/1_27.pdf" target="_blank">[.pdf]</a> (Click to download)
+
+- **GM 2 (2/3/23) Slides:** <a href="../Files/GM_22_23/2_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+
+- **GM 3 (3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+
+
+## Topic-Specific Meetings
+
+### Shiny Apps, and Slides (4/28/23)
 
 - **Shiny Apps:**
     - `palmerpenguins` scatterplot, with option to color by species: [<a href="../Files/Shiny_and_Slides/p_penguins.R" download="p_penguins.R">.R</a>] (Click to download)
@@ -22,11 +33,11 @@ title: "Resources from Past Meetings"
     - Basic `RSweave` (`.Rnw`) file: [<a href="../Files/Shiny_and_Slides/slides.Rnw" download="slides.Rnw">.Rnw</a>] (Click to download)
     
     
-## Markdown, GitHub, and LaTeX Workshop (3/3)
+### Markdown, GitHub, and LaTeX Workshop (3/3/23)
 
-- **Slides:** [.pdf]
+- **Slides:** N/A
     
 
-## Data Visualization Workshop (2/24)
+### Data Visualization Workshop (2/24/23)
 
-- **Slides:** [.html] [.pdf] (`.html` format recommended)
+- **Slides:** N/A

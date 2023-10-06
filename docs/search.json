@@ -32,14 +32,14 @@
     "href": "Pages/officers.html#website-committee",
     "title": "Meet the Officers",
     "section": "Website Committee",
-    "text": "Website Committee\n\nAlaina Liu (Chair)\nSunny Zhong\nBowie Chung"
+    "text": "Website Committee\n\nAlaina Liu (Chair)\nSunny Zhong\nBowie Chuang"
   },
   {
     "objectID": "Pages/officers.html#outreach-team",
     "href": "Pages/officers.html#outreach-team",
     "title": "Meet the Officers",
     "section": "Outreach Team",
-    "text": "Outreach Team\n\nPramukh Shankar (chair)\nOwen Feng\nKrystal Wu\nCyrus Navasca\nMomo Chiang\nAlice Xu"
+    "text": "Outreach Team\n\nPramukh Shankar (Chair)\nOwen Feng\nKrystal Wu\nCyrus Navasca\nMomo Chiang\nAlice Xu"
   },
   {
     "objectID": "Pages/officers.html#publicity-committee",
@@ -67,35 +67,28 @@
     "href": "Pages/meetings.html",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "Check back soon for material!"
+    "text": "Slides: [.pdf] (Click to download)"
   },
   {
-    "objectID": "Pages/meetings.html#general-meeting-1-105",
-    "href": "Pages/meetings.html#general-meeting-1-105",
+    "objectID": "Pages/meetings.html#general-meeting-1-10523",
+    "href": "Pages/meetings.html#general-meeting-1-10523",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "Check back soon for material!"
+    "text": "Slides: [.pdf] (Click to download)"
   },
   {
-    "objectID": "Pages/meetings.html#shiny-apps-and-slides-428",
-    "href": "Pages/meetings.html#shiny-apps-and-slides-428",
+    "objectID": "Pages/meetings.html#general-meetings",
+    "href": "Pages/meetings.html#general-meetings",
     "title": "Resources from Past Meetings",
-    "section": "Shiny Apps, and Slides (4/28)",
-    "text": "Shiny Apps, and Slides (4/28)\n\nShiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)"
+    "section": "General Meetings",
+    "text": "General Meetings\n\nGM 1 (1/27/23) Slides: [.pdf] (Click to download)\nGM 2 (2/3/23) Slides: [.pdf] (Click to download)\nGM 3 (3/3/23) Slides: [.pdf] (Click to download)"
   },
   {
-    "objectID": "Pages/meetings.html#markdown-github-and-latex-workshop-33",
-    "href": "Pages/meetings.html#markdown-github-and-latex-workshop-33",
+    "objectID": "Pages/meetings.html#topic-specific-meetings",
+    "href": "Pages/meetings.html#topic-specific-meetings",
     "title": "Resources from Past Meetings",
-    "section": "Markdown, GitHub, and LaTeX Workshop (3/3)",
-    "text": "Markdown, GitHub, and LaTeX Workshop (3/3)\n\nSlides: [.pdf]"
-  },
-  {
-    "objectID": "Pages/meetings.html#data-visualization-workshop-224",
-    "href": "Pages/meetings.html#data-visualization-workshop-224",
-    "title": "Resources from Past Meetings",
-    "section": "Data Visualization Workshop (2/24)",
-    "text": "Data Visualization Workshop (2/24)\n\nSlides: [.html] [.pdf] (.html format recommended)"
+    "section": "Topic-Specific Meetings",
+    "text": "Topic-Specific Meetings\n\nShiny Apps, and Slides (4/28/23)\n\nShiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)\n\n\n\n\nMarkdown, GitHub, and LaTeX Workshop (3/3/23)\n\nSlides: N/A\n\n\n\nData Visualization Workshop (2/24/23)\n\nSlides: N/A"
   },
   {
     "objectID": "Pages/about.html",
