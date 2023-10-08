@@ -2,4 +2,6 @@
 title: "Calendar"
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=c2Rzdy51Y3NiQGdtYWlsLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="calendar">
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23c4c4fb&ctz=America%2FLos_Angeles&title=DS%20Collab%20Calendar&src=dWNzYmRzY29sbGFiQGdtYWlsLmNvbQ&src=NmMwZDg2ZmQ3OGYxNjNiMzliNDRkM2JiNDBmNjY4YmEyODJhMzA2NjI5ZjBhZWU0MmM3MDU1OGFhZjFiZWQzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NjdiYWNjNDk4MmQzMWM2Nzk2YTdhZGVmNzE1YjRhNmZhOTUzMTgxNTE0NDNmM2JhOTc5YmMxYmIzYTc5NGRjMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MWY0NGFkY2I4NjgzYWZiMTU2YmNhN2NmNDA5NzVjMTUwN2VhZTg3NDFhZGU5YzU5NGIzOTEyYjYwYThkZjY2ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2348becc&color=%2346b2c1&color=%2316ab13&color=%23cc8d0d" style="border-width:0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
+</div>

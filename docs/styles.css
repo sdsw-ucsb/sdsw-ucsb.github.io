@@ -68,3 +68,9 @@ div.column {
     display: block;
   }
 }
+
+.calendar{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
