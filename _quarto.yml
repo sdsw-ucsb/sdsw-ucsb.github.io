@@ -18,8 +18,8 @@ website:
       sytle: "docked"
       collapse-level: 2
       contents:
-        - Pages/meetings2223.qmd
         - Pages/meetings.qmd
+        - Pages/meetings2223.qmd
     - title: "Projects"
       style: "docked"
       collapse-level: 2
