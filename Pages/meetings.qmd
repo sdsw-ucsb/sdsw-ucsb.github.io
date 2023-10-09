@@ -6,18 +6,18 @@ title: "Resources from Past Meetings"
 
 ## General Meetings
 
- - **GM 1 (10/5/23) Slides:** <a href="../Files/GM_23_24/GM1.pdf" target="_blank">[.pdf]</a> (Click to download)
+ - **GM 1 - Fall Kickoff! (10/5/23) Slides:** <a href="../Files/GM_23_24/GM1.pdf" target="_blank">[.pdf]</a> (Click to download)
 
 
 # 2022-2023
 
 ## General Meetings
 
-- **GM 1 (1/27/23) Slides:** <a href="../Files/GM_22_23/1_27.pdf" target="_blank">[.pdf]</a> (Click to download)
+- **GM 1 - Introductory Workshop (1/27/23) Slides:** <a href="../Files/GM_22_23/1_27.pdf" target="_blank">[.pdf]</a> (Click to download)
 
-- **GM 2 (2/3/23) Slides:** <a href="../Files/GM_22_23/2_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+- **GM 2 - Create Project Proposal(2/3/23) Slides:** <a href="../Files/GM_22_23/2_3.pdf" target="_blank">[.pdf]</a> (Click to download)
 
-- **GM 3 (3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+- **GM 3 Manage Project Files/Repositories(3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
 
 
 ## Topic-Specific Meetings
@@ -30,16 +30,10 @@ title: "Resources from Past Meetings"
 - **Slides:**
     - Basic `RSweave` (`.Rnw`) file: [<a href="../Files/Shiny_and_Slides/slides.Rnw" download="slides.Rnw">.Rnw</a>] (Click to download)
     
-    
 ### Markdown, GitHub, and LaTeX Workshop (3/3/23)
 
 - **Slides:** 
     - file: [<a href="../Files/GM_22_23/3_3.pdf" download="3_3.pdf">.pdf</a>] (Click to download)
-    
-
-### Data Visualization Workshop (2/24/23)
-
-- **Slides:** N/A
 
 ### Intro to Data Science (1/27/23)
 
