@@ -67,7 +67,7 @@
     "href": "Pages/meetings.html",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "GM 1 (10/5/23) Slides: [.pdf] (Click to download)"
+    "text": "GM 1 - Fall Kickoff! (10/5/23) Slides: [.pdf] (Click to download)"
   },
   {
     "objectID": "Pages/meetings.html#general-meeting-1-10523",
@@ -81,14 +81,14 @@
     "href": "Pages/meetings.html#general-meetings",
     "title": "Resources from Past Meetings",
     "section": "",
-    "text": "GM 1 (10/5/23) Slides: [.pdf] (Click to download)"
+    "text": "GM 1 - Fall Kickoff! (10/5/23) Slides: [.pdf] (Click to download)"
   },
   {
     "objectID": "Pages/meetings.html#topic-specific-meetings",
     "href": "Pages/meetings.html#topic-specific-meetings",
     "title": "Resources from Past Meetings",
     "section": "Topic-Specific Meetings",
-    "text": "Topic-Specific Meetings\n\nShiny Apps, and Slides (4/28/23)\n\nShiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)\n\n\n\n\nMarkdown, GitHub, and LaTeX Workshop (3/3/23)\n\nSlides:\n\nfile: [.pdf] (Click to download)\n\n\n\n\nData Visualization Workshop (2/24/23)\n\nSlides: N/A\n\n\n\nIntro to Data Science (1/27/23)\n\nSlides:\n\nfile: [.pdf] (Click to download)"
+    "text": "Topic-Specific Meetings\n\nShiny Apps, and Slides (4/28/23)\n\nShiny Apps:\n\npalmerpenguins scatterplot, with option to color by species: [.R] (Click to download)\n\nSlides:\n\nBasic RSweave (.Rnw) file: [.Rnw] (Click to download)\n\n\n\n\nMarkdown, GitHub, and LaTeX Workshop (3/3/23)\n\nSlides:\n\nfile: [.pdf] (Click to download)\n\n\n\n\nIntro to Data Science (1/27/23)\n\nSlides:\n\nfile: [.pdf] (Click to download)"
   },
   {
     "objectID": "Pages/about.html",
@@ -109,6 +109,6 @@
     "href": "Pages/meetings.html#general-meetings-1",
     "title": "Resources from Past Meetings",
     "section": "General Meetings",
-    "text": "General Meetings\n\nGM 1 (1/27/23) Slides: [.pdf] (Click to download)\nGM 2 (2/3/23) Slides: [.pdf] (Click to download)\nGM 3 (3/3/23) Slides: [.pdf] (Click to download)"
+    "text": "General Meetings\n\nGM 1 - Introductory Workshop (1/27/23) Slides: [.pdf] (Click to download)\nGM 2 - Create Project Proposal(2/3/23) Slides: [.pdf] (Click to download)\nGM 3 Manage Project Files/Repositories(3/3/23) Slides: [.pdf] (Click to download)"
   }
 ]
