@@ -17,7 +17,7 @@ title: "Resources from Past Meetings"
 
 - **GM 2 - Create Project Proposal (2/3/23) Slides:** <a href="../Files/GM_22_23/2_3.pdf" target="_blank">[.pdf]</a> (Click to download)
 
-- **GM 3 Manage Project Files/Repositories (3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+- **GM 3 - Manage Project Files/Repositories (3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
 
 
 ## Topic-Specific Meetings
