@@ -14,6 +14,12 @@ website:
         text: Projects
       - sidebar:about
   sidebar:
+    - title: "Past Meetings"
+      sytle: "docked"
+      collapse-level: 2
+      contents:
+        - Pages/meetings2223.qmd
+        - Pages/meetings.qmd
     - title: "Projects"
       style: "docked"
       collapse-level: 2

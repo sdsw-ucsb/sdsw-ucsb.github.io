@@ -1,0 +1,11 @@
+---
+title: "Past Meetings 2022-2023"
+---
+
+## General Meetings
+
+- **GM 1 - Introductory Workshop (1/27/23) Slides:** <a href="../Files/GM_22_23/1_27.pdf" target="_blank">[.pdf]</a> (Click to download)
+
+- **GM 2 - Create Project Proposal (2/3/23) Slides:** <a href="../Files/GM_22_23/2_3.pdf" target="_blank">[.pdf]</a> (Click to download)
+
+- **GM 3 - Manage Project Files/Repositories (3/3/23) Slides:** <a href="../Files/GM_22_23/3_3.pdf" target="_blank">[.pdf]</a> (Click to download)
